@@ -1,0 +1,10 @@
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\bin\Debug\MusicPlayerShuffle.exe.config
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\bin\Debug\MusicPlayerShuffle.exe
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\bin\Debug\MusicPlayerShuffle.pdb
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\bin\Debug\System.ValueTuple.dll
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\bin\Debug\System.ValueTuple.xml
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\obj\Debug\MusicPlayerShuffle.csprojAssemblyReference.cache
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\obj\Debug\MusicPlayerShuffle.csproj.CoreCompileInputs.cache
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\obj\Debug\MusicPlayerShuffle.csproj.CopyComplete
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\obj\Debug\MusicPlayerShuffle.exe
+C:\Users\Mary_Lapko\source\repos\MusicPlayerShuffle\MusicPlayerShuffle\obj\Debug\MusicPlayerShuffle.pdb
